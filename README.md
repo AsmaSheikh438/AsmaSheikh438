@@ -12,15 +12,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Data Science Projects](https://github.com/AsmaSheikh438/PROJECTS-Data-Science-)
 
 - 🌱 I’m currently learning **Python | Data Science | Machine Learning | Artificial Intelligence (AI) | SQL Database**
 
-- 💬 Ask me about **Data Science related questions**
-
 - 📫 How to reach me **asmasheikh438@gmail.com**
 
-- ⚡ Fun fact **The First Computer "Bug" was a Real Bug**
+- ⚡ Fun fact The First Computer "Bug" was a Real Bug**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
