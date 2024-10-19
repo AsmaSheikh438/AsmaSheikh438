@@ -37,5 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmasheikh438&" alt="asmasheikh438" /></p>
 
-<img align="right" alt="coding" width="400" src="https://images.yourstory.com/cs/1/56f2b680-adab-11e8-b2c3-ed9b9fa40148/1598613292247.png?fm=png&auto=format&blur=500">
+<img align="right" alt="coding" width="500" src="https://externlabs.com/blogs/wp-content/uploads/2022/09/Best-Data-Science-Software-Tools.jpg">
 
