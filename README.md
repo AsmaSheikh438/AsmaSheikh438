@@ -20,8 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/https://www.kaggle.com/shiekhasma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shiekhasma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshit-madan-394a82a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshit-madan-394a82a6/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/akshitmadan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akshitmadan_/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucblphb6_k7x1p28ocyxmswg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucblphb6_k7x1p28ocyxmswg" height="30" width="40" /></a>
 </p>
+
                                                                              
 <img align="right" alt="coding" width="100" src="https://images.hdqwalls.com/download/python-logo-4k-i6-1920x1080.jpg">
 <img align="right" alt="coding" width="100" src="https://media.geeksforgeeks.org/wp-content/uploads/20240131121315/NumPy-Logo-user-journey.png">
