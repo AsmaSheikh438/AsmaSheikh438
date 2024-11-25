@@ -44,6 +44,6 @@
 <img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
 </picture>
 </p>
-<p><img align="center" src="https://cdn-images-1.medium.com/v2/resize:fit:300/1*mgXvzNcwfpnBawI6XTkVRg.png">
+
 
 
