@@ -40,6 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmasheikh438&show_icons=true&locale=en" alt="asmasheikh438" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmasheikh438&" alt="asmasheikh438" /></p>
-<p><img align="center" src="https://cdn-images-1.medium.com/v2/resize:fit:400/1*mgXvzNcwfpnBawI6XTkVRg.png">
+<p><img align="center" src="https://cdn-images-1.medium.com/v2/resize:fit:300/1*mgXvzNcwfpnBawI6XTkVRg.png">
 
 
