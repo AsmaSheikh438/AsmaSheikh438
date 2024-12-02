@@ -13,7 +13,8 @@
 
 🎓 **Data Scientist | Machine Learning Enthusiast | Open Source Contributor**
 
-Welcome to my GitHub profile! I am passionate about solving real-world problems with data and building robust machine learning models. Here, you'll find projects that reflect my skills, interests, and contributions to the data science community.
+Welcome to my GitHub profile! I am passionate about solving real-world problems with data and building robust machine learning models.
+Here, you'll find projects that reflect my skills, interests, and contributions to the data science community.
 
 - 🌱 I’m currently learning **Python | Data Science | Machine Learning | Generative (AI) | SQL Database**
 
