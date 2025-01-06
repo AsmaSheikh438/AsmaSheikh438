@@ -34,41 +34,7 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 <img align="right" alt="coding" width="100" src="https://media.geeksforgeeks.org/wp-content/uploads/20240131121315/NumPy-Logo-user-journey.png">
 <img align="right" alt="coding" width="100" src="https://tse2.mm.bing.net/th?id=OIP.Ahq2xYOySMAQEw8fJJ_WUwAAAA&pid=Api&P=0&h=180">
 <img align="right" alt="coding" width="100" src="https://neuraspike.com/wp-content/uploads/2020/12/matplotlib-logo.png">
-<img align="right" alt="coding" width="200" src="https://i.pinimg.com/736x/ef/f4/b0/eff4b01aa01db337fdda91aa96d7d078.jpg">
-
-## ⚡ Technologies I use
-
-<div align="center">
-<table align="center">
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/python.jpeg" width="65px"/>
-            <br /> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/jupyter.png" width="65px"/>
-            <br /> Jupyter
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/tensorflow.png" width="65px"/>
-            <br /> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/pytorch.png" width="65px"/>
-            <br /> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/scikitlearn.png" width="65px"/>
-            <br /> Scikit Learn
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/fastapi.png" width="65px"/>
-            <br /> FastAPI
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/dock
-
-        
+<img align="right" alt="coding" width="200" src="https://i.pinimg.com/736x/ef/f4/b0/eff4b01aa01db337fdda91aa96d7d078.jpg">     
        
 
 
