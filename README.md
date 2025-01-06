@@ -50,6 +50,10 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 - **Generative AI** - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/064b2579324a629e754dff2a0849b2417b782f9dbd6a2f1b57ca1ea32dcec82d)
 - **Integrating Generative AI into Business Strategy** - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/bae9fc50770a4a641f15f7a996792c29d4af0bec4aec8bee22e4a56e4eeb2020?trk=share_certificate)
 - **Introduction to Artificial Intelligence** - [NASBA](https://www.linkedin.com/learning/certificates/7fac7b087fc355afe48e33cd52ba6d1de3086d41ce70106c2ead20ec990bf916?trk=share_certificate)
+- **Generative AI into Business Strategy** - [CPE](https://www.linkedin.com/learning/certificates/2dbea2d9f133056281ae8cd66c1fb846dc6f41689b3c5335b1774f8ce431ca7c?trk=share_certificate)  
+- **Generative AI into Business Strategy** - [Project Management Institute](https://www.linkedin.com/learning/certificates/4e25f0baa6919dce12bbaf085b9b9e225e7868dcade9dd48c517b545e337b96a?trk=share_certificate)  
+- **Generative AI into Business Strategy** - [SHRM](https://www.linkedin.com/learning/certificates/696e44c164c611e3ddcc18885a8acb218c358147cb7f8f93b067521e445efcfd?trk=share_certificate)  
+- **Generative AI into Business Strategy** - [HRCI](https://www.linkedin.com/learning/certificates/410f9332cf17dee3a6020c934c7f146d9d9178d37c6bfc5ebfac253fd279b349?trk=share_certificate)  
 
 
 
