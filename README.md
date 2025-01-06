@@ -89,8 +89,6 @@ I completed the **Data Science Tools** course on **Skillsoft**, which deepened m
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmasheikh438&" alt="asmasheikh438" /></p>
 
-> **Note**: Check out my repositories to explore the projects I've worked on, including Machine Learning models, AI projects, and more. Feel free to fork them or collaborate!
-
----
-
 <img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
