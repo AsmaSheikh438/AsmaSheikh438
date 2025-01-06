@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=800&height=100&lines=Data+Sxientist;Machine+Learning+Enthusiast+%7C+Open+Source+Contributor%7C;AI+%7C+NLP+%7C+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=800&height=100&lines=Data+Scientist;Machine+Learning+Enthusiast+%7C+Open+Source+Contributor%7C;AI+%7C+NLP+%7C+Python)](https://git.io/typing-svg)
 
 <img align="left" width="150" height="150" src="https://github.com/natnew/natnew/blob/main/octocat-Newbold-2023.png" alt="kedasha's instagram page @itsthatladydev">
 
