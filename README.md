@@ -41,8 +41,6 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 
 ## Certifications
 
-## Certifications
-
 - **Data Science Fundamentals: Essential Tools and Concepts** | [Alison](https://alison.com/shop?course=5729&score=92)
 - **Generative AI** | [NASBA](https://www.linkedin.com/learning/certificates/064b2579324a629e754dff2a0849b2417b782f9dbd6a2f1b57ca1ea32dcec82d)
 - **Generative AI** | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/30fe65bd16de76c4e3e3337bb6f47de5617b7e7ddf3f54b2a7e439f8504eb97b?trk=share_certificate)
@@ -61,12 +59,12 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 ## Badges
 
 ### 🎓 Data Science Tools by Skillsoft
-I am proud to have completed the **Data Science Tools** course by Skillsoft, which helped me develop a strong understanding of key data science tools and technologies. This certification showcases my commitment to continuous learning and professional growth in the field of data science.
+I completed the **Data Science Tools** course on **Skillsoft**, where I gained valuable insights into essential tools for data science, including data visualization and analytics.
 
 - **Course**: Data Science Tools  
 - **Platform**: [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.PYOrM4uB)
+- ![Data Science Tools Badge](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.PYOrM4uB)
 
-This certification covers the essential tools required for data science, including topics such as data visualization, analytics, and working with large datasets. It demonstrates my proficiency with industry-standard tools, adding to my skillset as an aspiring data scientist.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmasheikh438&show_icons=true&locale=en&layout=compact" alt="asmasheikh438" /></p>
 
