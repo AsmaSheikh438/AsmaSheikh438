@@ -1,7 +1,12 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=800&height=100&lines=Natasha+Newbold;Research+Scientist+%7C+Machine+Learning+Engineer%7C;AI+%7C+NLP+%7C+Computer+Vision)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Asma Sheikh</h1>
-<h3 align="center">A passionate Data Science Student From India</h3>
+<img align="left" width="150" height="150" src="https://github.com/natnew/natnew/blob/main/octocat-Newbold-2023.png" alt="kedasha's instagram page @itsthatladydev">
+
+### Hi, I'm Asma 👋
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?userna
+
 
 <img align="right" alt="coding" width="1000" src="https://datanatives.io/wp-content/uploads/2022/06/GtG_small_banner_2.gif">
 
