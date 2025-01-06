@@ -54,9 +54,25 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 - **Generative AI into Business Strategy** - [Project Management Institute](https://www.linkedin.com/learning/certificates/4e25f0baa6919dce12bbaf085b9b9e225e7868dcade9dd48c517b545e337b96a?trk=share_certificate)  
 - **Generative AI into Business Strategy** - [SHRM](https://www.linkedin.com/learning/certificates/696e44c164c611e3ddcc18885a8acb218c358147cb7f8f93b067521e445efcfd?trk=share_certificate)  
 - **Generative AI into Business Strategy** - [HRCI](https://www.linkedin.com/learning/certificates/410f9332cf17dee3a6020c934c7f146d9d9178d37c6bfc5ebfac253fd279b349?trk=share_certificate)
-- 
-## Soft Skill Badge
-You can view my Soft Skill Badge [here](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.JKEXM9HG).
+  
+## 🎓 Soft Skill Badge
+
+I am proud to have earned the **Soft Skill Badge**, which recognizes my proficiency in key soft skills that complement technical expertise.
+
+You can view my Soft Skill Badge and learn more about it on **Credly**:  
+[View my Soft Skill Badge](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.JKEXM9HG)
+
+---
+
+### Why This Badge Matters
+This badge represents my commitment to developing essential soft skills such as:
+- **Communication**
+- **Teamwork**
+- **Problem-solving**
+- **Adaptability**
+  
+These skills are crucial for success in any professional environment, especially in the tech industry, where collaboration and clear communication are key to achieving great outcomes.
+
 
 
  |
