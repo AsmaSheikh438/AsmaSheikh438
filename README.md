@@ -62,7 +62,7 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 I completed the **Data Science Tools** course on **Skillsoft**, which deepened my understanding of key tools used in data science, such as data visualization and analytics.
 
 - **Platform**: [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.861KDOgs)
-- ![Data Science Tools Badge](![c5bb99d9-20e8-41e7-9fac-02b0c46a66bb](https://github.com/user-attachments/assets/100b3210-1e66-471b-8fca-39cc7d417a09)
+<img src="https://github.com/user-attachments/assets/100b3210-1e66-471b-8fca-39cc7d417a09" alt="Data Science Tools Badge" width="150" height="150"/>
 
 
 
