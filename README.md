@@ -56,9 +56,8 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 - **Generative AI into Business Strategy** - [HRCI](https://www.linkedin.com/learning/certificates/410f9332cf17dee3a6020c934c7f146d9d9178d37c6bfc5ebfac253fd279b349?trk=share_certificate)
 - 
 ## Soft Skill Badge
-You can view my Soft Skill Badge [here](https://www.credly.com/0x25cb98cc6b98915ba56f16b493934db9171b65843e3e969a60c0039b904f6b83).
-### Blockchain ID:
-My Blockchain ID for this badge is: **0x25cb98cc6b98915ba56f16b493934db9171b65843e3e969a60c0039b904f6b83**
+You can view my Soft Skill Badge [here](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.JKEXM9HG).
+
 
  |
 
