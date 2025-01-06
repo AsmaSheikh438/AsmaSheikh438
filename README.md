@@ -53,11 +53,13 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 - **Generative AI into Business Strategy** - [CPE](https://www.linkedin.com/learning/certificates/2dbea2d9f133056281ae8cd66c1fb846dc6f41689b3c5335b1774f8ce431ca7c?trk=share_certificate)  
 - **Generative AI into Business Strategy** - [Project Management Institute](https://www.linkedin.com/learning/certificates/4e25f0baa6919dce12bbaf085b9b9e225e7868dcade9dd48c517b545e337b96a?trk=share_certificate)  
 - **Generative AI into Business Strategy** - [SHRM](https://www.linkedin.com/learning/certificates/696e44c164c611e3ddcc18885a8acb218c358147cb7f8f93b067521e445efcfd?trk=share_certificate)  
-- **Generative AI into Business Strategy** - [HRCI](https://www.linkedin.com/learning/certificates/410f9332cf17dee3a6020c934c7f146d9d9178d37c6bfc5ebfac253fd279b349?trk=share_certificate)  
+- **Generative AI into Business Strategy** - [HRCI](https://www.linkedin.com/learning/certificates/410f9332cf17dee3a6020c934c7f146d9d9178d37c6bfc5ebfac253fd279b349?trk=share_certificate)
+- 
+## Soft Skill Badge
+You can view my Soft Skill Badge [here](https://www.credly.com/0x25cb98cc6b98915ba56f16b493934db9171b65843e3e969a60c0039b904f6b83).
+### Blockchain ID:
+My Blockchain ID for this badge is: **0x25cb98cc6b98915ba56f16b493934db9171b65843e3e969a60c0039b904f6b83**
 
-## Badge from Blockchain ID:
-Here is my blockchain badge for earning the Soft Skill badge:  
-![Soft Skill Badge](https://img.shields.io/badge/Blockchain_ID-0x25cb98cc6b98915ba56f16b493934db9171b65843e3e969a60c0039b904f6b83-blue)
  |
 
 
