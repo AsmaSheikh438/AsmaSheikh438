@@ -55,7 +55,8 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 - **Generative AI into Business Strategy** - [SHRM](https://www.linkedin.com/learning/certificates/696e44c164c611e3ddcc18885a8acb218c358147cb7f8f93b067521e445efcfd?trk=share_certificate)  
 - **Generative AI into Business Strategy** - [HRCI](https://www.linkedin.com/learning/certificates/410f9332cf17dee3a6020c934c7f146d9d9178d37c6bfc5ebfac253fd279b349?trk=share_certificate)  
 
-
+##  Badges
+| ![Badge 1](https://example.com/badge1.png) | **Soft Skills: Communication and Collaboration** | Skillsoft | [View Badge](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.9SWos10R) |
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmasheikh438&show_icons=true&locale=en&layout=compact" alt="asmasheikh438" /></p>
