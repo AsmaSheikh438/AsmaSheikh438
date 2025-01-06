@@ -56,14 +56,13 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 - **Python for Beginners** | [Scaler](https://moonshot.scaler.com/s/sl/_EbW-c2Hjo)
 - **SQL for Data Science** | [Great Learning](https://www.mygreatlearning.com/certificate/BVRKHKZI)
 
-## Badges
+## 🎓  Badges
 
-### 🎓 Data Science Tools by Skillsoft
-I completed the **Data Science Tools** course on **Skillsoft**, where I gained valuable insights into essential tools for data science, including data visualization and analytics.
+### 🚀 Data Science Tools by Skillsoft
+I completed the **Data Science Tools** course on **Skillsoft**, which deepened my understanding of key tools used in data science, such as data visualization and analytics.
 
-- **Course**: Data Science Tools  
-- **Platform**: [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.PYOrM4uB)
-- ![Data Science Tools Badge](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.PYOrM4uB)
+- **Platform**: [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.861KDOgs)
+- ![Data Science Tools Badge](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.861KDOgs)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmasheikh438&show_icons=true&locale=en&layout=compact" alt="asmasheikh438" /></p>
