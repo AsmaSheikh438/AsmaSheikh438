@@ -3,7 +3,7 @@
 <img align="left" width="150" height="150" src="https://github.com/natnew/natnew/blob/main/octocat-Newbold-2023.png" alt="kedasha's instagram page @itsthatladydev">
 ### Hi, I'm Asma 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?userna
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
 
 <img align="right" alt="coding" width="1000" src="https://datanatives.io/wp-content/uploads/2022/06/GtG_small_banner_2.gif">
