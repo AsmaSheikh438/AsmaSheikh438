@@ -4,6 +4,8 @@
 ### Hi, I'm Asma 👋
 [![Website](https://img.shields.io/website?label=asmasheikh&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/asma-sheikh-43bbab328/)
 
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-sheikh-43bbab328/)
+
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
