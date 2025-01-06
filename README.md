@@ -6,6 +6,7 @@
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-sheikh-43bbab328/)
  [![Gmail](https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](asmasheikh438@gmail.com)
+ [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shiekhasma)
 
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
