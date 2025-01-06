@@ -72,17 +72,16 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 
 > **Quick Tip**: When viewing my certifications, feel free to click the links to view the full details or explore courses on these platforms for further learning.
 
-## 🎓 Badges
+## 🎓  Badges
 
 ### 🚀 Data Science Tools by Skillsoft
 I completed the **Data Science Tools** course on **Skillsoft**, which deepened my understanding of key tools used in data science, such as data visualization and analytics.
 
-![Website](https://img.shields.io/website?label=asmasheikh&style=for-the-badge&url=https%3A%2F%2Flinkedin.com&width=100)
+- **Platform**: [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.861KDOgs)
+<img src="https://github.com/user-attachments/assets/100b3210-1e66-471b-8fca-39cc7d417a09" alt="Data Science Tools Badge" width="150" height="150"/>
 
-  
-  ![Data Science Tools Badge](https://github.com/user-attachments/assets/100b3210-1e66-471b-8fca-39cc7d417a09)
 
-## 🚀 GitHub Stats & Projects
+## 🚀 GitHub Stats & Project
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmasheikh438&show_icons=true&locale=en&layout=compact" alt="asmasheikh438" /></p>
 
