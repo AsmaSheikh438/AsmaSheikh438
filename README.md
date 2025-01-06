@@ -65,7 +65,6 @@ I am proud to have completed the **Data Science Tools** course by Skillsoft, whi
 
 - **Course**: Data Science Tools  
 - **Platform**: [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.PYOrM4uB)
-- ![Data Science Tools Badge](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.PYOrM4uB) | [View Badge](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.PYOrM4uB)
 
 This certification covers the essential tools required for data science, including topics such as data visualization, analytics, and working with large datasets. It demonstrates my proficiency with industry-standard tools, adding to my skillset as an aspiring data scientist.
 
