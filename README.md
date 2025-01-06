@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=800&height=100&lines=Data+Scientist;Machine+Learning+Enthusiast+%7C+Open+Source+Contributor%7C;AI+%7C+NLP+%7C+Python)](https://git.io/typing-svg)
 <img align="left" width="150" height="150" src="https://github.com/natnew/natnew/blob/main/octocat-Newbold-2023.png" alt="kedasha's instagram page @itsthatladydev">
-# Hi, I'm Asma 👋
+### Hi, I'm Asma 👋
 [![Website](https://img.shields.io/website?label=asmasheikh&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/asma-sheikh-43bbab328/)
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-sheikh-43bbab328/)
