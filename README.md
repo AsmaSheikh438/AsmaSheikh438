@@ -26,8 +26,6 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 
 - 🌱 I’m currently learning **Python | Data Science | Machine Learning | Generative (AI) | SQL Database**
 
-- 📫 How to reach me **asmasheikh438@gmail.com**
-
 - ⚡ Fun fact The First Computer "Bug" was a Real Bug**
 
 <h3 align="left">Connect with me:</h3>
