@@ -43,7 +43,7 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 - **Generative AI Certification** - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/30fe65bd16de76c4e3e3337bb6f47de5617b7e7ddf3f54b2a7e439f8504eb97b?trk=share_certificate)
 - **Statistics for Data Analysis Using Excel (Accredited)** - [Udemy](https://springboard.udemy.com/certificate/UC-5d849150-f7d1-42b2-9230-c7bb41f11916/)
 - **Accelerating Deep Learning with GPUs** - [IBM Cognitive Class](https://courses.cognitiveclass.ai/certificates/83b9ca10dc60435d80c02eeaa5f613e2)
-- **Data Science Fundamentals: Essential Tools and Concepts** - [Alison](https://example-link-to-certificate.com)
+- **Data Science Fundamentals: Essential Tools and Concepts** - [Alison](https://alison.com/shop?course=5729&score=92)
 - **Introduction to Artificial Intelligence** - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/45f16876797c94986bf1fa3b617f3b2d548b1b01dc005d709b6eff811d99d0d8?trk=share_certificate)
 - **SQL for Data Science** - [Great Learning](https://www.mygreatlearning.com/certificate/BVRKHKZI)
 - **Python for Beginners** - [Scaler](https://moonshot.scaler.com/s/sl/_EbW-c2Hjo)
