@@ -43,33 +43,16 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 - **Generative AI Certification** - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/30fe65bd16de76c4e3e3337bb6f47de5617b7e7ddf3f54b2a7e439f8504eb97b?trk=share_certificate)
 - **Statistics for Data Analysis Using Excel (Accredited)** - [Udemy](https://springboard.udemy.com/certificate/UC-5d849150-f7d1-42b2-9230-c7bb41f11916/)
 - **Accelerating Deep Learning with GPUs** - [IBM Cognitive Class](https://courses.cognitiveclass.ai/certificates/83b9ca10dc60435d80c02eeaa5f613e2)
-- **Data Science Fundamentals: Essential Tools and Concepts**  
-  <i>Issued by:</i> Alison  
-  [View Certificate](https://example-link-to-certificate.com)
+- **Data Science Fundamentals: Essential Tools and Concepts** - [Alison](https://example-link-to-certificate.com)
+- **Introduction to Artificial Intelligence** - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/45f16876797c94986bf1fa3b617f3b2d548b1b01dc005d709b6eff811d99d0d8?trk=share_certificate)
+- **SQL for Data Science** - [Great Learning](https://www.mygreatlearning.com/certificate/BVRKHKZI)
+- **Python for Beginners** - [Scaler](https://moonshot.scaler.com/s/sl/_EbW-c2Hjo)
+- **Generative AI** - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/064b2579324a629e754dff2a0849b2417b782f9dbd6a2f1b57ca1ea32dcec82d)
+- **Integrating Generative AI into Business Strategy** - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/bae9fc50770a4a641f15f7a996792c29d4af0bec4aec8bee22e4a56e4eeb2020?trk=share_certificate)
+- **Introduction to Artificial Intelligence** - [NASBA](https://www.linkedin.com/learning/certificates/7fac7b087fc355afe48e33cd52ba6d1de3086d41ce70106c2ead20ec990bf916?trk=share_certificate)
 
-- **Introduction to Artificial Intelligence**  
-  <i>Issued by:</i> LinkedIn  
-  [View Certificate](https://www.linkedin.com/learning/certificates/45f16876797c94986bf1fa3b617f3b2d548b1b01dc005d709b6eff811d99d0d8?trk=share_certificate)
 
-- **SQL for Data Science**  
-  <i>Issued by:</i> Great Learning  
-  [View Certificate](https://www.mygreatlearning.com/certificate/BVRKHKZI)
 
-- **Python for Beginners**  
-  <i>Issued by:</i> Scaler  
-  [View Certificate](https://moonshot.scaler.com/s/sl/_EbW-c2Hjo)
-
-- **Generative AI**  
-  <i>Issued by:</i> National Association of State Boards of Accountancy (NASBA)  
-  [View Certificate](https://www.linkedin.com/learning/certificates/064b2579324a629e754dff2a0849b2417b782f9dbd6a2f1b57ca1ea32dcec82d)
-
-- **Integrating Generative AI into Business Strategy**  
-  <i>Issued by:</i> LinkedIn
-  [View Certificate](https://www.linkedin.com/learning/certificates/bae9fc50770a4a641f15f7a996792c29d4af0bec4aec8bee22e4a56e4eeb2020?trk=share_certificate)
-
-- **Introduction to Artificial Intelligence**  
-  <i>Issued by:</i> National Association of State Boards of Accountancy (NASBA)  
-  [View Certificate](https://www.linkedin.com/learning/certificates/7fac7b087fc355afe48e33cd52ba6d1de3086d41ce70106c2ead20ec990bf916?trk=share_certificate)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmasheikh438&show_icons=true&locale=en&layout=compact" alt="asmasheikh438" /></p>
 
