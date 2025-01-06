@@ -15,13 +15,15 @@
   </a> 
 </p>
 
-Welcome to my GitHub profile! I am passionate about solving real-world problems with data and building robust machine learning models.  
+Welcome to my GitHub profile! I am passionate about solving real-world problems with data, building robust machine learning models, and contributing to open-source projects.  
 Here, you'll find projects that reflect my skills, interests, and contributions to the data science community.
 
-- 🌱 I’m currently learning **Python | Data Science | Machine Learning | Generative AI | SQL Database**
+- 🌱 I’m currently learning **Python | Data Science | Machine Learning | Generative AI | SQL Database**.
 - ⚡ Fun fact: The first computer "bug" was a real bug! 🪲
 
-## ⚡ Technologies I use
+---
+
+## ⚡ Technologies I Use
 
 <div align="center">
   <table align="center">
@@ -50,11 +52,15 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
   </table>
 </div>
 
-> **Technologies Overview**: I primarily work with Python and related frameworks such as **Jupyter**, **TensorFlow**, and **Scikit-learn** for machine learning tasks. I also leverage **FastAPI** for creating robust APIs to deploy models efficiently.
+> **Technologies Overview**:  
+I primarily work with **Python** and related frameworks such as **Jupyter**, **TensorFlow**, and **Scikit-learn** for building and deploying machine learning models. Additionally, I use **FastAPI** to develop robust and scalable APIs, enabling smooth integration and deployment of AI models into real-world applications.
+
+---
 
 ## 📜 Certifications
 
-> **Certifications**: My certifications demonstrate my expertise in data science, machine learning, and AI technologies. They reflect my commitment to continuous learning and upskilling in the rapidly evolving tech field.
+> **Certifications**:  
+Here are some of my certifications that reflect my expertise in data science, machine learning, and AI technologies:
 
 - **[Data Science Fundamentals: Essential Tools and Concepts](https://alison.com/shop?course=5729&score=92)** | [Alison](https://alison.com/)
 - **[Generative AI](https://www.linkedin.com/learning/certificates/064b2579324a629e754dff2a0849b2417b782f9dbd6a2f1b57ca1ea32dcec82d)** | [NASBA](https://www.linkedin.com/learning/)
@@ -70,9 +76,11 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 - **[Python for Beginners](https://moonshot.scaler.com/s/sl/_EbW-c2Hjo)** | [Scaler](https://moonshot.scaler.com/)
 - **[SQL for Data Science](https://www.mygreatlearning.com/certificate/BVRKHKZI)** | [Great Learning](https://www.mygreatlearning.com/)
 
-> **Quick Tip**: When viewing my certifications, feel free to click the links to view the full details or explore courses on these platforms for further learning.
+> **Quick Tip**: Feel free to click on any of the certification links for detailed information or explore courses on these platforms for further learning.
 
-## 🎓  Badges
+---
+
+## 🎓 Badges
 
 ### 🚀 Data Science Tools by Skillsoft
 I completed the **Data Science Tools** course on **Skillsoft**, which deepened my understanding of key tools used in data science, such as data visualization and analytics.
@@ -80,15 +88,24 @@ I completed the **Data Science Tools** course on **Skillsoft**, which deepened m
 - **Platform**: [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.861KDOgs)
 <img src="https://github.com/user-attachments/assets/100b3210-1e66-471b-8fca-39cc7d417a09" alt="Data Science Tools Badge" width="150" height="150"/>
 
+---
 
-## 🚀 GitHub Stats & Project
+## 🚀 GitHub Stats & Projects
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmasheikh438&show_icons=true&locale=en&layout=compact" alt="asmasheikh438" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmasheikh438&show_icons=true&locale=en" alt="asmasheikh438" /></p>
 
+Here are some of the key projects I've worked on:
+- **Project 1**: A detailed implementation of [K-Nearest Neighbors Classification](https://github.com/asmasheikh438/knn-classification) using Python and Scikit-learn.
+- **Project 2**: A deep dive into [Machine Learning Model Deployment](https://github.com/asmasheikh438/ml-deployment) using FastAPI.
+- **Project 3**: A [Generative AI](https://github.com/asmasheikh438/generative-ai-project) project showcasing NLP models for text generation.
+
+Feel free to explore my repositories and get insights into my work!
 
 <img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
-</picture>
-</p>
 
+---
+
+### **Final Thoughts**
+I'm always looking to collaborate and learn from others. If you're interested in working together, feel free to reach out via LinkedIn or email!
