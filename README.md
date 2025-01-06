@@ -55,8 +55,10 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 - **Generative AI into Business Strategy** - [SHRM](https://www.linkedin.com/learning/certificates/696e44c164c611e3ddcc18885a8acb218c358147cb7f8f93b067521e445efcfd?trk=share_certificate)  
 - **Generative AI into Business Strategy** - [HRCI](https://www.linkedin.com/learning/certificates/410f9332cf17dee3a6020c934c7f146d9d9178d37c6bfc5ebfac253fd279b349?trk=share_certificate)  
 
-##  Badges
-| Skillsoft | [View Badge](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.9SWos10R) |
+## Badge from Blockchain ID:
+Here is my blockchain badge for earning the Soft Skill badge:  
+![Soft Skill Badge](https://img.shields.io/badge/Blockchain_ID-0x25cb98cc6b98915ba56f16b493934db9171b65843e3e969a60c0039b904f6b83-blue)
+ |
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmasheikh438&show_icons=true&locale=en&layout=compact" alt="asmasheikh438" /></p>
