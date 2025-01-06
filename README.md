@@ -15,7 +15,6 @@
 
 <img align="right" alt="coding" width="200" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmasheikh438&label=Profile%20views&color=0e75b6&style=flat" alt="asmasheikh438" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
