@@ -90,6 +90,14 @@ I completed the **Data Science Tools** course on **Skillsoft**, which deepened m
 <img src="https://github.com/user-attachments/assets/100b3210-1e66-471b-8fca-39cc7d417a09" alt="Data Science Tools Badge" width="150" height="150"/>
 
 ---
+### 🚀 Google Cloud Badge - Introduction to Responsible AI
+I completed the **Introduction to Responsible AI** course on **Google Cloud Skills Boost**, which helped me enhance my understanding of ethical AI principles, fairness, and accountability in AI systems.
+
+- **Platform**: [Google Cloud Skills Boost](https://www.cloudskillsboost.google/profile/badges)
+<img src="https://github.com/user-attachments/assets/d7c4c698-2db3-4bec-bbc8-be4df5a0d505" alt="Google Badge" width="150" height="150"/>
+
+---
+
 
 ## 🚀 GitHub Stats & Projects
 
