@@ -105,7 +105,6 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-## 📂 Key Projects
 
 ### 📂 Key Projects
 
