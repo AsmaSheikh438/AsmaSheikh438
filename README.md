@@ -108,16 +108,16 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 ## 📂 Key Projects
 
 ### Classification Models
-- **Decision Tree**: 90.0% accuracy
-- **K-Nearest Neighbors (KNN)**: 91.25% accuracy
-- **Logistic Regression**: 86.0% accuracy
-- **Naive Bayes**: 90.0% accuracy
-- **Support Vector Machine (SVM)**: 90.0% accuracy
+- **[Decision Tree](https://github.com/AsmaSheikh438/your-repo-name/tree/main/Decision_Tree_Classification)**: 90.0% accuracy
+- **[K-Nearest Neighbors (KNN)](https://github.com/AsmaSheikh438/your-repo-name/tree/main/KNN_Classification)**: 91.25% accuracy
+- **[Logistic Regression](https://github.com/AsmaSheikh438/your-repo-name/tree/main/Logistic_Regression)**: 86.0% accuracy
+- **[Naive Bayes](https://github.com/AsmaSheikh438/your-repo-name/tree/main/Naive_Bayes)**: 90.0% accuracy
+- **[Support Vector Machine (SVM)](https://github.com/AsmaSheikh438/your-repo-name/tree/main/SVM_Classification)**: 90.0% accuracy
 
 ### Regression Models
-- **Decision Tree**: 100% accuracy
-- **K-Nearest Neighbors (KNN)**: 81.6% accuracy
-- **Support Vector Machine (SVM)**: 77.0% accuracy
+- **[Decision Tree](https://github.com/AsmaSheikh438/your-repo-name/tree/main/Decision_Tree_Regression)**: 100% accuracy
+- **[K-Nearest Neighbors (KNN)](https://github.com/AsmaSheikh438/your-repo-name/tree/main/KNN_Regression)**: 81.6% accuracy
+- **[Support Vector Machine (SVM)](https://github.com/AsmaSheikh438/your-repo-name/tree/main/SVM_Regression)**: 77.0% accuracy
 
 Feel free to explore my repositories and get insights into my work!
 
