@@ -109,7 +109,7 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 ### 📂 Key Projects
 
 #### Classification Models
-**[Decision Tree (Classification) PRE & POST PRUNING](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/DECISION%20TREE%20%28Classification%29%20PRE%20&%20POST%20PRUINING.ipynb)**: 90.0% accuracy
+- **[Decision Tree (Classification) PRE & POST PRUNING](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/DECISION%20TREE%20(Classification)%20PRE%20&%20POST%20PRUINING.ipynb)**: 90.0% accuracy
 
 - **[K-Nearest Neighbors (KNN)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/K-Nearest%20Neighbours%20(CLASSIFICATION).ipynb)**: 91.25% accuracy
  **[Logistic Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/LOGISTIC%20REGRESSION%20MODEL.ipynb)**: 86.0% accuracy
