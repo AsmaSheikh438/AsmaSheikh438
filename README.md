@@ -101,11 +101,15 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 
 ## 🚀 GitHub Stats & Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmasheikh438&show_icons=true&locale=en&layout=compact" alt="asmasheikh438" /></p>
+### Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmasheikh438&show_icons=true&locale=en" alt="asmasheikh438" /></p>
+### Stats
 
-Here are some of the key projects I've worked on:
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AsmaSheikh438&count_private=true&show_icons=true&theme=omni&hide_rank=false">
+</p>
+
+
 - **Project 1**: A detailed implementation of [K-Nearest Neighbors Classification](https://github.com/asmasheikh438/knn-classification) using Python and Scikit-learn.
 - **Project 2**: A deep dive into [Machine Learning Model Deployment](https://github.com/asmasheikh438/ml-deployment) using FastAPI.
 - **Project 3**: A [Generative AI](https://github.com/asmasheikh438/generative-ai-project) project showcasing NLP models for text generation.
