@@ -105,26 +105,19 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-## Supervised Machine Learning Projects
+## 📂 Key Projects
 
-This repository showcases key machine learning models and techniques that demonstrate my expertise in data science, machine learning, and model evaluation. Below are the most impactful projects:
+### 1. Supervised Machine Learning Classification Models
+- **Decision Tree Classification**: Achieved 90.0% accuracy in classifying data based on decision tree algorithm.
+- **K-Nearest Neighbors (KNN) Classification**: Reached 91.25% accuracy in classification tasks with KNN.
+- **Logistic Regression**: Developed a logistic regression model with 86.0% accuracy for classification tasks.
+- **Naive Bayes Classification**: Implemented Naive Bayes classifier achieving 90.0% accuracy.
+- **Support Vector Machine (SVM) Classification**: Achieved 90.0% accuracy using SVM for classification.
 
-### 📂 Key Projects
-
-#### **1. Data Preprocessing**
-- **[Data Cleaning](#)**: Efficient techniques for handling missing data and cleaning raw datasets.
-- **[Feature Scaling](#)**: Applying normalization and standardization to prepare data for modeling.
-
-#### **2. Supervised Machine Learning Models**
-- **[Logistic Regression](#)**: Solving binary and multiclass classification problems.
-- **[Decision Tree (Classification & Regression)](#)**: Implementing decision trees for both classification and regression tasks, including pruning techniques.
-- **[Support Vector Machines (SVM)](#)**: Using SVM for classification and regression tasks, understanding kernel trick and hyperparameter tuning.
-- **[K-Nearest Neighbors (KNN)](#)**: Implementing KNN for classification with performance optimization.
-
-#### **3. Model Evaluation & Optimization**
-- **[Confusion Matrix](#)**: Evaluating classification performance and improving accuracy.
-- **[Cross-Validation](#)**: Applying cross-validation to ensure model generalization.
-- **[Hyperparameter Tuning](#)**: Fine-tuning models using grid search and random search techniques.
+### 2. Supervised Machine Learning Regression Models
+- **Decision Tree Regression**: Achieved 100% accuracy in regression tasks using decision tree.
+- **K-Nearest Neighbors (KNN) Regression**: Achieved 81.6% accuracy in regression with KNN.
+- **Support Vector Machine (SVM) Regression**: Built an SVM regression model with 77.0% accuracy.
 
 Feel free to explore my repositories and get insights into my work!
 
