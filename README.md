@@ -105,11 +105,26 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
+## Supervised Machine Learning Projects
 
+This repository showcases key machine learning models and techniques that demonstrate my expertise in data science, machine learning, and model evaluation. Below are the most impactful projects:
 
-- **Project 1**: A detailed implementation of [K-Nearest Neighbors Classification](https://github.com/asmasheikh438/knn-classification) using Python and Scikit-learn.
-- **Project 2**: A deep dive into [Machine Learning Model Deployment](https://github.com/asmasheikh438/ml-deployment) using FastAPI.
-- **Project 3**: A [Generative AI](https://github.com/asmasheikh438/generative-ai-project) project showcasing NLP models for text generation.
+### 📂 Key Projects
+
+#### **1. Data Preprocessing**
+- **[Data Cleaning](#)**: Efficient techniques for handling missing data and cleaning raw datasets.
+- **[Feature Scaling](#)**: Applying normalization and standardization to prepare data for modeling.
+
+#### **2. Supervised Machine Learning Models**
+- **[Logistic Regression](#)**: Solving binary and multiclass classification problems.
+- **[Decision Tree (Classification & Regression)](#)**: Implementing decision trees for both classification and regression tasks, including pruning techniques.
+- **[Support Vector Machines (SVM)](#)**: Using SVM for classification and regression tasks, understanding kernel trick and hyperparameter tuning.
+- **[K-Nearest Neighbors (KNN)](#)**: Implementing KNN for classification with performance optimization.
+
+#### **3. Model Evaluation & Optimization**
+- **[Confusion Matrix](#)**: Evaluating classification performance and improving accuracy.
+- **[Cross-Validation](#)**: Applying cross-validation to ensure model generalization.
+- **[Hyperparameter Tuning](#)**: Fine-tuning models using grid search and random search techniques.
 
 Feel free to explore my repositories and get insights into my work!
 
