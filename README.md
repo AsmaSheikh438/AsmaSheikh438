@@ -107,15 +107,17 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 
 ## 📂 Key Projects
 
-### Classification Models
-- **[Decision Tree (Pre & Post Pruning)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Classification/DECISION%20TREE%20(Classification)%20PRE%20&%20POST%20PRUNING.ipynb)**: 90.0% accuracy
+### 📂 Key Projects
+
+#### Classification Models
+- **[Decision Tree (Classification) PRE & POST PRUNING](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Classification/DECISION%20TREE%20(Classification)%20PRE%20&%20POST%20PRUNING.ipynb)**: 90.0% accuracy
 - **[K-Nearest Neighbors (KNN)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Classification/K-Nearest%20Neighbours%20(CLASSIFICATION).ipynb)**: 91.25% accuracy
-- **[Logistic Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Classification/LOGESTIC%20REGRESSION%20MODEL%20.ipynb)**: 86.0% accuracy
+- **[Logistic Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Classification/LOGISTIC%20REGRESSION%20MODEL.ipynb)**: 86.0% accuracy
 - **[Naive Bayes](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Classification/NAIVE%20BAYES.ipynb)**: 90.0% accuracy
 - **[Support Vector Machine (SVM)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Classification/Support%20Vector%20Machine%20SVM%20(CLASSIFICATION).ipynb)**: 90.0% accuracy
 
-### Regression Models
-- **[Decision Tree (Regression)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Regression/DECISION%20TREE%20(Regression)%20.ipynb)**: 100% accuracy
+#### Regression Models
+- **[Decision Tree (Regression)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Regression/DECISION%20TREE%20(Regression).ipynb)**: 100% accuracy
 - **[K-Nearest Neighbors (KNN) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Regression/K-Nearest%20Neighbours%20(REGRESSION).ipynb)**: 81.6% accuracy
 - **[Support Vector Machine (SVM) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/tree/main/02_supervised_ML/Regression/Support%20Vector%20Machine%20SVM%20(REGRESSION).ipynb)**: 77.0% accuracy
 
