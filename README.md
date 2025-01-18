@@ -101,13 +101,10 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 
 ## 🚀 GitHub Stats & Projects
 
-### Stats
+| ![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsmaSheikh438&show_icons=true&theme=radical&count_private=true&hide=prs&hide_title=true&size=large&height=300) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaSheikh438&layout=compact&&show_icons=true&theme=radical&size=large&height=300)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-### Stats
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AsmaSheikh438&count_private=true&show_icons=true&theme=omni&hide_rank=false">
-</p>
 
 
 - **Project 1**: A detailed implementation of [K-Nearest Neighbors Classification](https://github.com/asmasheikh438/knn-classification) using Python and Scikit-learn.
