@@ -107,17 +107,17 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 
 ## 📂 Key Projects
 
-### 1. Supervised Machine Learning Classification Models
-- **Decision Tree Classification**: Achieved 90.0% accuracy in classifying data based on decision tree algorithm.
-- **K-Nearest Neighbors (KNN) Classification**: Reached 91.25% accuracy in classification tasks with KNN.
-- **Logistic Regression**: Developed a logistic regression model with 86.0% accuracy for classification tasks.
-- **Naive Bayes Classification**: Implemented Naive Bayes classifier achieving 90.0% accuracy.
-- **Support Vector Machine (SVM) Classification**: Achieved 90.0% accuracy using SVM for classification.
+### Classification Models
+- **Decision Tree**: 90.0% accuracy
+- **K-Nearest Neighbors (KNN)**: 91.25% accuracy
+- **Logistic Regression**: 86.0% accuracy
+- **Naive Bayes**: 90.0% accuracy
+- **Support Vector Machine (SVM)**: 90.0% accuracy
 
-### 2. Supervised Machine Learning Regression Models
-- **Decision Tree Regression**: Achieved 100% accuracy in regression tasks using decision tree.
-- **K-Nearest Neighbors (KNN) Regression**: Achieved 81.6% accuracy in regression with KNN.
-- **Support Vector Machine (SVM) Regression**: Built an SVM regression model with 77.0% accuracy.
+### Regression Models
+- **Decision Tree**: 100% accuracy
+- **K-Nearest Neighbors (KNN)**: 81.6% accuracy
+- **Support Vector Machine (SVM)**: 77.0% accuracy
 
 Feel free to explore my repositories and get insights into my work!
 
