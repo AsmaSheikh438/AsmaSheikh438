@@ -77,22 +77,16 @@ Here are some of my most reputed certifications that reflect my expertise in dat
 
 ---
 
-## 🎓 Badges
+## 🎓 Badges 
 
-### 🚀 Data Science Tools by Skillsoft
-I completed the **Data Science Tools** course on **Skillsoft**, which deepened my understanding of key tools used in data science, such as data visualization and analytics.
+- **[Data Science Tools](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.861KDOgs)** - **Skillsoft**
+- **[Introduction to Responsible AI](https://www.cloudskillsboost.google/profile/badges)** - **Google Cloud Skills Boost**
 
-- **Platform**: [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/77d6d6f5-3525-41b9-879a-f473212aff88#acc.861KDOgs)
-<img src="https://github.com/user-attachments/assets/100b3210-1e66-471b-8fca-39cc7d417a09" alt="Data Science Tools Badge" width="150" height="150"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/100b3210-1e66-471b-8fca-39cc7d417a09" alt="Data Science Tools Badge" width="100" height="100"/>
+  <img src="https://github.com/user-attachments/assets/d7c4c698-2db3-4bec-bbc8-be4df5a0d505" alt="Google Badge" width="100" height="100"/>
+</div>
 
----
-### 🚀 Google Cloud Badge - Introduction to Responsible AI
-I completed the **Introduction to Responsible AI** course on **Google Cloud Skills Boost**, which helped me enhance my understanding of ethical AI principles, fairness, and accountability in AI systems.
-
-- **Platform**: [Google Cloud Skills Boost](https://www.cloudskillsboost.google/profile/badges)
-<img src="https://github.com/user-attachments/assets/d7c4c698-2db3-4bec-bbc8-be4df5a0d505" alt="Google Badge" width="150" height="150"/>
-
----
 
 ### **Final Thoughts**
 I'm always looking to collaborate and learn from others. If you're interested in working together, feel free to reach out via LinkedIn or email.
