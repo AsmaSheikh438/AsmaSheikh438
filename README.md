@@ -57,28 +57,23 @@ Here, you'll find projects that reflect my skills, interests, and contributions 
 I primarily work with **Python** and related frameworks such as **Jupyter**, **TensorFlow**, and **Scikit-learn** for building and deploying machine learning models. Additionally, I use **FastAPI** to develop robust and scalable APIs, enabling smooth integration and deployment of AI models into real-world applications.
 
 ---
-
 ## 📜 Certifications
 
 > **Certifications**:  
-Here are some of my certifications that reflect my expertise in data science, machine learning, and AI technologies:
+Here are some of my most reputed certifications that reflect my expertise in data science, machine learning, and AI technologies:
 
-- **[Data Science Fundamentals: Essential Tools and Concepts](https://alison.com/shop?course=5729&score=92)** | [Alison](https://alison.com/)
-- **[Generative AI](https://www.linkedin.com/learning/certificates/064b2579324a629e754dff2a0849b2417b782f9dbd6a2f1b57ca1ea32dcec82d)** | [NASBA](https://www.linkedin.com/learning/)
+- **[Generative AI](https://www.linkedin.com/learning/certificates/064b2579324a629e754dff2a0849b2417b782f9dbd6a2f1b57ca1ea32dcec82d)** | [LinkedIn Learning](https://www.linkedin.com/learning/)
+- **[Introduction to Artificial Intelligence](https://www.linkedin.com/learning/certificates/7fac7b087fc355afe48e33cd52ba6d1de3086d41ce70106c2ead20ec990bf916?trk=share_certificate)** | [LinkedIn Learning](https://www.linkedin.com/learning/)
 - **[Generative AI](https://www.linkedin.com/learning/certificates/30fe65bd16de76c4e3e3337bb6f47de5617b7e7ddf3f54b2a7e439f8504eb97b?trk=share_certificate)** | [LinkedIn Learning](https://www.linkedin.com/learning/)
-- **[Integrating Generative AI into Business Strategy](https://www.linkedin.com/learning/certificates/bae9fc50770a4a641f15f7a996792c29d4af0bec4aec8bee22e4a56e4eeb2020?trk=share_certificate)** | [LinkedIn Learning](https://www.linkedin.com/learning/)
-- **[Generative AI into Business Strategy](https://www.linkedin.com/learning/certificates/410f9332cf17dee3a6020c934c7f146d9d9178d37c6bfc5ebfac253fd279b349?trk=share_certificate)** | [HRCI](https://www.linkedin.com/learning/)
-- **[Introduction to Artificial Intelligence](https://www.linkedin.com/learning/certificates/7fac7b087fc355afe48e33cd52ba6d1de3086d41ce70106c2ead20ec990bf916?trk=share_certificate)** | [BASBA](https://www.linkedin.com/learning/)
-- **[Statistics for Data Analysis Using Excel (Accredited)](https://springboard.udemy.com/certificate/UC-5d849150-f7d1-42b2-9230-c7bb41f11916/)** | [Udemy](https://springboard.udemy.com/)
-- **[Generative AI into Business Strategy](https://www.linkedin.com/learning/certificates/2dbea2d9f133056281ae8cd66c1fb846dc6f41689b3c5335b1774f8ce431ca7c?trk=share_certificate)** | [CPE](https://www.linkedin.com/learning/)
+- **[Introduction to Data Science](https://www.linkedin.com/learning/certificates/064b2579324a629e754dff2a0849b2417b782f9dbd6a2f1b57ca1ea32dcec82d)** | [Infosys Springboard](https://www.linkedin.com/learning/)
 - **[Clustering using Python](https://springboard.udemy.com/certificate/UC-10272ff0-d3ca-42d4-9ffc-79a2bff30c08/)** | [Udemy](https://www.udemy.com/)
-- **[Generative AI](https://www.pmi.org/certificate-link)** | [Project Management Institute](https://www.pmi.org/)
-- **[Introduction to Artificial Intelligence](https://www.linkedin.com/learning/certificates/45f16876797c94986bf1fa3b617f3b2d548b1b01dc005d709b6eff811d99d0d8?trk=share_certificate)** | [LinkedIn Learning](https://www.linkedin.com/learning/)
-- **[Accelerating Deep Learning with GPUs](https://courses.cognitiveclass.ai/certificates/83b9ca10dc60435d80c02eeaa5f613e2)** | [CognitiveClass.ai](https://courses.cognitiveclass.ai/)
 - **[Python for Beginners](https://moonshot.scaler.com/s/sl/_EbW-c2Hjo)** | [Scaler](https://moonshot.scaler.com/)
+- **[Generative AI into Business Strategy](https://www.linkedin.com/learning/certificates/410f9332cf17dee3a6020c934c7f146d9d9178d37c6bfc5ebfac253fd279b349?trk=share_certificate)** | [HRCI](https://www.linkedin.com/learning/)
 - **[SQL for Data Science](https://www.mygreatlearning.com/certificate/BVRKHKZI)** | [Great Learning](https://www.mygreatlearning.com/)
+- **[Accelerating Deep Learning with GPUs](https://courses.cognitiveclass.ai/certificates/83b9ca10dc60435d80c02eeaa5f613e2)** | [CognitiveClass.ai](https://courses.cognitiveclass.ai/)
 
-> **Quick Tip**: Feel free to click on any of the certification links for detailed information or explore courses on these platforms for further learning.
+> **For more certifications, feel free to check my [LinkedIn Profile](https://www.linkedin.com/in/asma-sheikh-43bbab328/).**
+
 
 ---
 
