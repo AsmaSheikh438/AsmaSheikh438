@@ -116,7 +116,7 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 - **[K-Nearest Neighbors (KNN) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/K-Nearest%20Neighbours%20(REGRESSION).ipynb)**: 81.6% accuracy
 - **[Support Vector Machine (SVM) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/Support%20Vector%20Machine%20SVM%20(REGRESSION).ipynb)**: 77.0% accuracy
 
-Feel free to explore my repositories and get insights into my work!
+💡 Check out my repositories for detailed Jupyter Notebooks, step-by-step explanations, and real-world datasets! 🚀
 
 <img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
 
