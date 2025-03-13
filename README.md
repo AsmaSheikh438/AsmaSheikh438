@@ -7,7 +7,7 @@
 
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-sheikh-43bbab328/)
- [![Gmail](https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](asmasheikh438@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmasheikh438@gmail.com)
  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shiekhasma)
 
 <p align="left">
@@ -104,17 +104,39 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 
 ### 📂 Key Projects
 
-#### Classification Models
-- **[Decision Tree (Classification) PRE & POST PRUNING](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/DECISION%20TREE%20(%20Classification%20)%20PRE%20%26%20POST%20PRUINING.ipynb)**: 90.0% accuracy
-- **[K-Nearest Neighbors (KNN)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/K-Nearest%20Neighbours%20(CLASSIFICATION).ipynb)**: 91.25% accuracy
-- **[Logistic Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/LOGESTIC%20REGRESSION%20MODEL%20.ipynb)**: 86.0% accuracy
-- **[Naive Bayes](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/NAIVE%20BAYES.ipynb)**: 90.0% accuracy
-- **[Support Vector Machine (SVM) (Classification)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/Support%20Vactor%20Machine%20SVM%20(CLASSIFICATION).ipynb)**: 90.0% accuracy
+### 🏆 Classification Models
+- **[Decision Tree (Classification) - Pre & Post Pruning](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/DECISION%20TREE%20(%20Classification%20)%20PRE%20%26%20POST%20PRUINING.ipynb)**  
+  - 📌 Implemented **Decision Tree Classification** with **Pre-Pruning and Post-Pruning** techniques to enhance model generalization.  
+  - 📊 Achieved **90.0% accuracy** by optimizing tree depth and reducing overfitting.  
 
-#### Regression Models
-- **[Decision Tree (Regression)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/DECISION%20TREE%20(%20Regression%20).ipynb)**: 100% accuracy
-- **[K-Nearest Neighbors (KNN) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/K-Nearest%20Neighbours%20(REGRESSION).ipynb)**: 81.6% accuracy
-- **[Support Vector Machine (SVM) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/Support%20Vector%20Machine%20SVM%20(REGRESSION).ipynb)**: 77.0% accuracy
+- **[K-Nearest Neighbors (KNN)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/K-Nearest%20Neighbours%20(CLASSIFICATION).ipynb)**  
+  - 📌 Developed a **K-Nearest Neighbors (KNN) classification model** for pattern recognition and predictive analysis.  
+  - 📊 Optimized hyperparameters using **grid search**, achieving **91.25% accuracy** on the dataset.  
+
+- **[Logistic Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/LOGESTIC%20REGRESSION%20MODEL%20.ipynb)**  
+  - 📌 Built a **Logistic Regression model** for binary classification problems.  
+  - 📊 Applied **feature scaling and regularization (L1/L2)** to prevent overfitting, achieving **86.0% accuracy**.  
+
+- **[Naive Bayes](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/NAIVE%20BAYES.ipynb)**  
+  - 📌 Implemented a **Naive Bayes classifier**, leveraging the conditional probability theorem for text and categorical data classification.  
+  - 📊 Achieved **90.0% accuracy** with Gaussian and Multinomial distributions.  
+
+- **[Support Vector Machine (SVM) - Classification](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/Support%20Vactor%20Machine%20SVM%20(CLASSIFICATION).ipynb)**  
+  - 📌 Developed an **SVM model** using different kernel functions (**linear, polynomial, and RBF**) for effective classification.  
+  - 📊 Achieved **90.0% accuracy** with optimized hyperparameters using **GridSearchCV**.  
+
+### 📈 Regression Models
+- **[Decision Tree (Regression)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/DECISION%20TREE%20(%20Regression%20).ipynb)**  
+  - 📌 Designed a **Decision Tree Regression model** to predict continuous values while preventing overfitting through **pruning techniques**.  
+  - 📊 Achieved **100% accuracy**, indicating a perfect fit to the training data.  
+
+- **[K-Nearest Neighbors (KNN) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/K-Nearest%20Neighbours%20(REGRESSION).ipynb)**  
+  - 📌 Developed a **KNN Regression model** to estimate continuous values based on proximity to the nearest data points.  
+  - 📊 Achieved **81.6% accuracy**, optimizing K-values using **cross-validation** techniques.  
+
+- **[Support Vector Machine (SVM) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/Support%20Vector%20Machine%20SVM%20(REGRESSION).ipynb)**  
+  - 📌 Implemented **SVM Regression (SVR)** with different kernel tricks to predict continuous variables efficiently.  
+  - 📊 Achieved **77.0% accuracy**, fine-tuning hyperparameters for optimal performance.  
 
 💡 Check out my repositories for detailed Jupyter Notebooks, step-by-step explanations, and real-world datasets! 🚀
 
