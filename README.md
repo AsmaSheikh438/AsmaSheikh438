@@ -101,50 +101,62 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-
-### 📂 Key Projects
+## 📂 Key Projects
 
 ### 🏆 Classification Models
-- **[Decision Tree (Classification) - Pre & Post Pruning](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/DECISION%20TREE%20(%20Classification%20)%20PRE%20%26%20POST%20PRUINING.ipynb)**  
-  - 📌 Implemented **Decision Tree Classification** with **Pre-Pruning and Post-Pruning** techniques to enhance model generalization.  
-  - 📊 Achieved **90.0% accuracy** by optimizing tree depth and reducing overfitting.  
-  - 📚 **Dataset Used:** `purchased_data.csv`  
 
-- **[K-Nearest Neighbors (KNN)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/K-Nearest%20Neighbours%20(CLASSIFICATION).ipynb)**  
-  - 📌 Developed a **K-Nearest Neighbors (KNN) classification model** for pattern recognition and predictive analysis.  
-  - 📊 Optimized hyperparameters using **grid search**, achieving **91.25% accuracy** on the dataset.  
-  - 📚 **Dataset Used:** `purchased_data.csv`  
+- **[Decision Tree (Classification) - Pre & Post Pruning](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/DECISION%20TREE%20(%20Classification%20)%20PRE%20%26%20POST%20PRUINING.ipynb)**  
+  - 🎯 **Objective:** Predict whether a customer will purchase a product based on their age and estimated salary.  
+  - 📌 Built a **Decision Tree Classification model** using **Purchased_Data.csv**.  
+  - ✂️ Applied **Pre-Pruning and Post-Pruning** techniques to control overfitting.  
+  - 📊 Achieved **90.0% accuracy**, improving decision boundaries.  
+
+- **[K-Nearest Neighbors (KNN) - Classification](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/K-Nearest%20Neighbours%20(CLASSIFICATION).ipynb)**  
+  - 🎯 **Objective:** Classify whether a user is likely to buy a product based on social media ad data.  
+  - 📌 Developed a **KNN classification model** on **Purchased_Data.csv**.  
+  - 🔍 Optimized hyperparameters using **GridSearchCV**.  
+  - 📊 Achieved **91.25% accuracy**, improving recommendations.  
 
 - **[Logistic Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/LOGESTIC%20REGRESSION%20MODEL%20.ipynb)**  
-  - 📌 Built a **Logistic Regression model** for binary classification problems.  
-  - 📊 Applied **feature scaling and regularization (L1/L2)** to prevent overfitting, achieving **86.0% accuracy**.  
-  - 📚 **Dataset Used:** `User_Data.csv`  
+  - 🎯 **Objective:** Determine whether students pass or fail based on study time and previous scores.  
+  - 📌 Built a **Logistic Regression model** using **User_Data.csv**.  
+  - 🔄 Applied **feature scaling (StandardScaler) and L1/L2 regularization**.  
+  - 📊 Achieved **86.0% accuracy**, showing strong predictive power.  
 
-- **[Naive Bayes](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/NAIVE%20BAYES.ipynb)**  
-  - 📌 Implemented a **Naive Bayes classifier**, leveraging the conditional probability theorem for text and categorical data classification.  
-  - 📊 Achieved **90.0% accuracy** with Gaussian and Multinomial distributions.  
-  - 📚 **Dataset Used:** `student_clustering.csv`  
+- **[Naive Bayes Classifier](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/NAIVE%20BAYES.ipynb)**  
+  - 🎯 **Objective:** Classify student performance (pass/fail) based on study hours and attendance.  
+  - 📌 Implemented a **Naive Bayes model** using **Student_Clustering.csv**.  
+  - 🔢 Compared **Gaussian and Multinomial distributions** for different data types.  
+  - 📊 Achieved **90.0% accuracy**, making it suitable for academic predictions.  
 
 - **[Support Vector Machine (SVM) - Classification](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/Support%20Vactor%20Machine%20SVM%20(CLASSIFICATION).ipynb)**  
-  - 📌 Developed an **SVM model** using different kernel functions (**linear, polynomial, and RBF**) for effective classification.  
-  - 📊 Achieved **90.0% accuracy** with optimized hyperparameters using **GridSearchCV**.  
-  - 📚 **Dataset Used:** `placement-dataset.csv`  
+  - 🎯 **Objective:** Predict whether students will be placed in a job based on academic scores.  
+  - 📌 Built an **SVM classification model** on **Placement-Dataset.csv**.  
+  - 🔍 Used multiple kernels (**linear, RBF, polynomial**) for better decision boundaries.  
+  - 📊 Achieved **90.0% accuracy**, improving placement predictions.  
 
-### 📈 Regression Models
-- **[Decision Tree (Regression)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/DECISION%20TREE%20(%20Regression%20).ipynb)**  
-  - 📌 Designed a **Decision Tree Regression model** to predict continuous values while preventing overfitting through **pruning techniques**.  
-  - 📊 Achieved **100% accuracy**, indicating a perfect fit to the training data.  
-  - 📚 **Dataset Used:** `Salary_data.csv`  
+---
+
+### 📈 Regression Models  
+
+- **[Decision Tree Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/DECISION%20TREE%20(%20Regression%20).ipynb)**  
+  - 🎯 **Objective:** Predict employee salary based on years of experience.  
+  - 📌 Built a **Decision Tree Regression model** using **Salary_Data.csv**.  
+  - ✂️ Applied **Pruning techniques** to avoid overfitting.  
+  - 📊 Model fit indicates a strong salary prediction model.  
 
 - **[K-Nearest Neighbors (KNN) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/K-Nearest%20Neighbours%20(REGRESSION).ipynb)**  
-  - 📌 Developed a **KNN Regression model** to estimate continuous values based on proximity to the nearest data points.  
-  - 📊 Achieved **81.6% accuracy**, optimizing K-values using **cross-validation** techniques.  
-  - 📚 **Dataset Used:** `Salary_data.csv`  
+  - 🎯 **Objective:** Predict employee salaries using KNN regression.  
+  - 📌 Developed a **KNN Regression model** using **Salary_Data.csv**.  
+  - 🔍 Tuned hyperparameters using **cross-validation**.  
+  - 📊 Achieved **81.6% accuracy**, reducing salary prediction errors.  
 
 - **[Support Vector Machine (SVM) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/Support%20Vector%20Machine%20SVM%20(REGRESSION).ipynb)**  
-  - 📌 Implemented **SVM Regression (SVR)** with different kernel tricks to predict continuous variables efficiently.  
-  - 📊 Achieved **77.0% accuracy**, fine-tuning hyperparameters for optimal performance.  
-  - 📚 **Dataset Used:** `placement-dataset.csv` 
+  - 🎯 **Objective:** Predict salaries for freshers based on past placement data.  
+  - 📌 Implemented **SVM Regression (SVR)** on **Placement.csv**.  
+  - ⚙️ Tested multiple kernels (**linear, RBF, polynomial**) for better predictions.  
+  - 📊 Achieved **77.0% accuracy**, identifying salary trends.  
+
 
 💡 Check out my repositories for detailed Jupyter Notebooks, step-by-step explanations, and real-world datasets! 🚀
 
