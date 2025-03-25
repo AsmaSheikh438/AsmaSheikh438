@@ -3,7 +3,7 @@
 <img align="left" width="150" height="150" src="https://github.com/natnew/natnew/blob/main/octocat-Newbold-2023.png" alt="kedasha's instagram page @itsthatladydev">
 
 ### Hi, I'm Asma 👋
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AsmaSheikh438&title=Profile%20Visitors&edge_flat=true&color=pink)
+![Profile Visitors](https://komarev.com/ghpvc/?username=AsmaSheikh438&color=ff69b4)
 
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-sheikh-43bbab328/)
