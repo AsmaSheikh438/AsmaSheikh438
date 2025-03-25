@@ -108,35 +108,43 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 - **[Decision Tree (Classification) - Pre & Post Pruning](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/DECISION%20TREE%20(%20Classification%20)%20PRE%20%26%20POST%20PRUINING.ipynb)**  
   - 📌 Implemented **Decision Tree Classification** with **Pre-Pruning and Post-Pruning** techniques to enhance model generalization.  
   - 📊 Achieved **90.0% accuracy** by optimizing tree depth and reducing overfitting.  
+  - 📚 **Dataset Used:** `purchased_data.csv`  
 
 - **[K-Nearest Neighbors (KNN)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/K-Nearest%20Neighbours%20(CLASSIFICATION).ipynb)**  
   - 📌 Developed a **K-Nearest Neighbors (KNN) classification model** for pattern recognition and predictive analysis.  
   - 📊 Optimized hyperparameters using **grid search**, achieving **91.25% accuracy** on the dataset.  
+  - 📚 **Dataset Used:** `purchased_data.csv`  
 
 - **[Logistic Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/LOGESTIC%20REGRESSION%20MODEL%20.ipynb)**  
   - 📌 Built a **Logistic Regression model** for binary classification problems.  
   - 📊 Applied **feature scaling and regularization (L1/L2)** to prevent overfitting, achieving **86.0% accuracy**.  
+  - 📚 **Dataset Used:** `User_Data.csv`  
 
 - **[Naive Bayes](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/NAIVE%20BAYES.ipynb)**  
   - 📌 Implemented a **Naive Bayes classifier**, leveraging the conditional probability theorem for text and categorical data classification.  
   - 📊 Achieved **90.0% accuracy** with Gaussian and Multinomial distributions.  
+  - 📚 **Dataset Used:** `student_clustering.csv`  
 
 - **[Support Vector Machine (SVM) - Classification](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/Support%20Vactor%20Machine%20SVM%20(CLASSIFICATION).ipynb)**  
   - 📌 Developed an **SVM model** using different kernel functions (**linear, polynomial, and RBF**) for effective classification.  
   - 📊 Achieved **90.0% accuracy** with optimized hyperparameters using **GridSearchCV**.  
+  - 📚 **Dataset Used:** `placement-dataset.csv`  
 
 ### 📈 Regression Models
 - **[Decision Tree (Regression)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/DECISION%20TREE%20(%20Regression%20).ipynb)**  
   - 📌 Designed a **Decision Tree Regression model** to predict continuous values while preventing overfitting through **pruning techniques**.  
   - 📊 Achieved **100% accuracy**, indicating a perfect fit to the training data.  
+  - 📚 **Dataset Used:** `Salary_data.csv`  
 
 - **[K-Nearest Neighbors (KNN) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/K-Nearest%20Neighbours%20(REGRESSION).ipynb)**  
   - 📌 Developed a **KNN Regression model** to estimate continuous values based on proximity to the nearest data points.  
   - 📊 Achieved **81.6% accuracy**, optimizing K-values using **cross-validation** techniques.  
+  - 📚 **Dataset Used:** `Salary_data.csv`  
 
 - **[Support Vector Machine (SVM) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/Support%20Vector%20Machine%20SVM%20(REGRESSION).ipynb)**  
   - 📌 Implemented **SVM Regression (SVR)** with different kernel tricks to predict continuous variables efficiently.  
   - 📊 Achieved **77.0% accuracy**, fine-tuning hyperparameters for optimal performance.  
+  - 📚 **Dataset Used:** `placement.csv  
 
 💡 Check out my repositories for detailed Jupyter Notebooks, step-by-step explanations, and real-world datasets! 🚀
 
