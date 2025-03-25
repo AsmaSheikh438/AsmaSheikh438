@@ -144,7 +144,7 @@ I completed the **Introduction to Responsible AI** course on **Google Cloud Skil
 - **[Support Vector Machine (SVM) Regression](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/Support%20Vector%20Machine%20SVM%20(REGRESSION).ipynb)**  
   - 📌 Implemented **SVM Regression (SVR)** with different kernel tricks to predict continuous variables efficiently.  
   - 📊 Achieved **77.0% accuracy**, fine-tuning hyperparameters for optimal performance.  
-  - 📚 **Dataset Used:** `placement.csv  
+  - 📚 **Dataset Used:** `placement-dataset.csv` 
 
 💡 Check out my repositories for detailed Jupyter Notebooks, step-by-step explanations, and real-world datasets! 🚀
 
